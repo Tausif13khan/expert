@@ -1,0 +1,30 @@
+body{
+ margin:0px;
+}
+  
+.ht{
+  padding:180px 510px;
+ 
+}
+.ht .registers{
+color: blue;
+background-color: red;
+width:100px;
+height: 40px;
+border-radius:20px;
+display: inline-block;
+
+
+}
+
+.ht .logins{
+
+width:100px;
+height: 40px;
+
+border-radius:20px;
+display: inline-block;
+
+
+
+}

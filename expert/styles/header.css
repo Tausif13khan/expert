@@ -1,0 +1,68 @@
+body{
+	font:15px Arial,Helvetica;
+	background:url('doc.jpg')no-repeat center center fixed;
+background-blend-mode: lighten;
+}
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+header{
+	background:Indigo;
+	color:white;
+	padding-top:3%;
+	min-height:30%;
+	border-bottom:pink 3px solid;
+}
+header a{
+	color:white;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:16px;
+
+}
+header ul{
+	margin-top:110;
+	margin-bottom:25px;
+	padding:5px;
+}
+header li{
+	float:left;
+	display:inline;
+	padding:0 20px 0 20px;
+}
+header nav{
+	float:right;
+	margin-top:16px;
+}
+header h1{
+	margin-top:5px;
+	padding:5px 0 0 0;
+}
+header #proname{
+	float:left;
+	
+}
+header .highlight,header .current a{
+	color:orange;
+}
+header a:hover{
+	color:skyblue;
+	font-weight:bold;
+}
+section{
+	margin-left:300px;
+	min-height:350px;
+
+	background:url('../expert.jpg')no-repeat;
+
+}
+
+section h1{
+	margin-left:0px;
+	font-size:32px;
+
+}
+
+	
